@@ -54,7 +54,7 @@ export default function Home() {
           {/* Badge animé */}
           <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-zinc-900/80 border border-[#f43f5e]/30 text-xs font-mono text-[#f43f5e] shadow-[0_0_15px_rgba(244,63,94,0.15)]">
             <span className="w-2 h-2 rounded-full bg-[#f43f5e] animate-ping" />
-            <span>Disponible Stage PFE 2026</span>
+            <span>Disponible Stage PFE 2027</span>
           </div>
 
           {/* Titre dynamique Typewriter */}
