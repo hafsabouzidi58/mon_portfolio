@@ -14,8 +14,6 @@ export const portfolioData = {
   skills: [
     { id: 1, name: "Java & Spring Boot", category: "Backend" },
     { id: 2, name: "PHP & JEE", category: "Backend" },
-    { id: 3, name: "C++ & C#", category: "Backend" },
-    { id: 4, name: "Python (Django)", category: "Backend" },
     { id: 5, name: "Angular & React", category: "Frontend" },
     { id: 6, name: "Next.js & TypeScript", category: "Frontend" },
     { id: 7, name: "SQL Server, Oracle & PostgreSQL", category: "Database" },
